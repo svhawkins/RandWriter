@@ -41,3 +41,4 @@ loaded him with their teeth.  A Fox, who had never been brought out on a journey
 
 ## Miscellany
 - fails at large input files (>= 1MB)
+- aesop.txt, trump-clinton1.txt, romeo.txt and IolantheLibretto.txt also included as sample files
