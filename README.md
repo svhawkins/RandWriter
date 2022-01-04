@@ -37,7 +37,7 @@ faggot, took their spades and mattocks and carefully provided nothing
 was found, they cheered the actor, and
 loaded him with their teeth.  A Fox, who had never been brought out on a journey, driving his design, she climbed 
 ```
-*note: your result will not exact to this. but the wording and style should be similar.
+*note: your result will not be exact to this. but the wording and style should be similar.*
 
 ## Miscellany
 - fails at large input files (>= 1MB)
